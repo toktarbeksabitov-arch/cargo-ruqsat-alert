@@ -1,0 +1,2 @@
+# cargo-ruqsat-alert
+CargoRuqsat
